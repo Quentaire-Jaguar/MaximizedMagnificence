@@ -1,2 +1,5 @@
+
 # MaximizedMagnificence
-Millenials' mantra
+Millenial mastermind
+
+
